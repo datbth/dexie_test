@@ -1,0 +1,14 @@
+{
+  "name": "dexie_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "datbth <datbth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "babel-jest": "^27.5.1",
+    "dexie": "^3.2.1",
+    "fake-indexeddb": "^3.1.7",
+    "jest": "^27.5.1"
+  }
+}
